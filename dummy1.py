@@ -1,3 +1,2 @@
-print("How may i help you ?")
+print("This is origin")
 
-print("\nHow may i help you ?")
